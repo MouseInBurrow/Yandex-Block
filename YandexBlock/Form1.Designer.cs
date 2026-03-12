@@ -61,7 +61,7 @@ namespace YandexBlock
             linkLabel2.Size = new Size(85, 13);
             linkLabel2.TabIndex = 3;
             linkLabel2.TabStop = true;
-            linkLabel2.Text = "By Dimon1757\r\n";
+            linkLabel2.Text = "By MouseInBurrow\n";
             linkLabel2.VisitedLinkColor = Color.Black;
             linkLabel2.LinkClicked += linkLabel2_LinkClicked;
             // 
